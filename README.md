@@ -5,6 +5,6 @@ This project analyzes historical stock price data, calculates portfolio returns 
 - Portfolio Risk and Return Calculation
 - Correlation Analysis of Stocks
 
-liraries that has been use :
+libraries that has been use :
 - Python, Pandas, NumPy
 - yfinance, Matplotlib
